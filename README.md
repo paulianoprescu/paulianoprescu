@@ -2,7 +2,7 @@
 
 My name is Paulian Oprescu and I am currently a student at Wageningen University & Research (WUR) in the Netherlands.
 
-I am currently working on biomass crop yield forecasting modelling.
+I am currently working on biomass crop yield forecasting modelling at the Earth Observation & Environmental Informatics Group within Wageningen Environmental Research.
 
 You can reach out to me via LinkedIn or my email.
 <!--
