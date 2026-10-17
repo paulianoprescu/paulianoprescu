@@ -2,6 +2,8 @@
 
 My name is Paulian Oprescu and I am currently a student at Wageningen University & Research (WUR) in the Netherlands.
 
+![Detected ships at Constanța around Russia leaving the grain deal (July 2023)](black-sea-vessel-monitoring/images/timelapse_2023.gif)
+
 <!--
 **oprescupaulian17-glitch/oprescupaulian17-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
