@@ -3,6 +3,11 @@
 My name is Paulian Oprescu and I am currently a student at Wageningen University & Research (WUR) in the Netherlands.
 
 ![Detected ships at Constanța around Russia leaving the grain deal (July 2023)](https://raw.githubusercontent.com/paulianoprescu/black-sea-vessel-monitoring/main/images/timelapse_2023.gif)
+
+   ### A Frost-Kill Trading Signal for Black Sea Winter Wheat
+   [<img src="https://raw.githubusercontent.com/paulianoprescu/winter-wheat-frost-kill/main/output/figures/fig2_kill_surface_2025_26.png" width="600">](https://github.com/paulianoprescu/winter-wheat-frost-kill)
+
+   A crop-model frost-kill signal for Rostov Oblast, tested against MATIF wheat futures. BSc Honours research, WUR.
 <!--
 **oprescupaulian17-glitch/oprescupaulian17-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
