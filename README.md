@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Paulian Oprescu and I am currently a student at Wageningen University & Research (WUR) in the Netherlands.
+My name is Paulian Oprescu and I am currently a student at Wageningen University & Research (WUR) in the Netherlands, previously having went on exchange at Cornell University in the US.
+
+I'm deeply interested in modelling physical commodities and realting these to markets.
 
 <table>
   <tr>
